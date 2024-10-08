@@ -1,0 +1,1 @@
+export const TicTacToeLista = ["X", "O", "", "O", "O", "", "X", "", "X"]
